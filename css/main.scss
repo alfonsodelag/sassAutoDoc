@@ -1,3 +1,17 @@
+////
+/// This is a poster comment.
+/// It will apply annotations to all items from file.
+/// @group API
+////
+
+/// This item will have:
+/// `@group API` and `@author Hugo Giraudel`
+/// inherited from the poster.
+
+/// This item overrides the `@author` annotation
+/// from the poster; it's not merged with it.
+/// @author Fabrice Weinberg
+
 $colors: (
     primary: #005DFF,
     primary-light: ligthen(#005DFF, 40%),
@@ -5,6 +19,7 @@ $colors: (
     accent: #FFF6BB
 );
 
+/// Hello this is a comment
 $padding: 15px;
 $borders: 15px;
 
@@ -22,11 +37,13 @@ $desktop: 840px;
 
 body, html {
     height: 100%;
+
 }
 
 body {
     font-family: 'Montserrat';
     margin: 0;
+
 
     #bg {
     clip-path: polygon(100% 0, 100% 71%, 77% 100%, 0 100%, 0 0);

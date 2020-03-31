@@ -1,3 +1,14 @@
+/**
+ *
+ * Button color
+ *
+ * @access public
+ * @author Shane
+ * @example
+ * background: #000;
+ * @since 1.0
+ *
+ */
 body, html {
   height: 100%;
 }
