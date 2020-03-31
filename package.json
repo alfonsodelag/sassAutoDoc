@@ -1,0 +1,23 @@
+{
+  "name": "sassautodoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfonsodelag/sassAutoDoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfonsodelag/sassAutoDoc/issues"
+  },
+  "homepage": "https://github.com/alfonsodelag/sassAutoDoc#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sassdoc": "^2.7.1"
+  }
+}
