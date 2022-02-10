@@ -20,7 +20,7 @@
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
     "gulp-sass-glob": "^1.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sassdoc": "^2.7.1"
   }
 }
